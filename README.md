@@ -22,3 +22,5 @@ open index.html
 - Customizable timer
 - Different modes for variety of gameplay
 
+[Link to Linh4's front-end code repo](https://github.com/linh4/tic-tap-tone-front-end)
+
